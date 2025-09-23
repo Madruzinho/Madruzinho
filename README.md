@@ -38,7 +38,7 @@
 ### 📫 Onde me encontrar
 - 📧 Email: **gui.augusto.pessoal@gmail.com**  
 - 💼 LinkedIn: [Clique aqui](https://linkedin.com/in/guilherme-augusto-114ab8344)  
-- 📷 Instagram: [@seuuser](https://instagram.com/guilherme_.aug)  
+- 📷 Instagram: [@Guilherme_.aug](https://instagram.com/guilherme_.aug)  
 
 ---
 
