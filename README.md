@@ -1,5 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Augusto</h1>
-<h3 align="center">💻 Estudante técnico no CEFET-MG | 🚀 Apaixonado por tecnologia</h3>
+<h1 align="center">👋 Eu sou o Guilherme Augusto</h1>
+<h3 align="center">💻 Estudante técnico no CEFET-MG
+</h3>
 
 ---
 
@@ -40,9 +41,6 @@
 - 💼 LinkedIn: [Clique aqui](https://linkedin.com/in/guilherme-augusto-114ab8344)  
 - 📷 Instagram: [@Guilherme_.aug](https://instagram.com/guilherme_.aug)  
 
----
-
-✨ _“A persistência transforma talento em resultado.”_
 
 <!--
 **Madruzinho/Madruzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
