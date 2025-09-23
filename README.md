@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center" 🚀 Tecnologias </p>
+<p align="center"> 🚀 Tecnologias </p>
 <p align="left">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center" 📊 Estatísticas do GitHub </p>
+<p align="center"> 📊 Estatísticas do GitHub </p>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Madruzinho&show_icons=true&theme=shadow_blue"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madruzinho&layout=compact&theme=shadow_blue"/>
