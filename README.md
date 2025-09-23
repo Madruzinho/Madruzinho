@@ -11,8 +11,8 @@
 
 ---
 
-<h1 justify-content="space-around"> 🚀 Tecnologias </h1>
-<p align="left">
+<h1 align="center"> 🚀 Tecnologias </h1>
+<p justify-content="space-around">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
