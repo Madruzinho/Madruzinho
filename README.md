@@ -1,17 +1,17 @@
-<h1 align="center">👋 Eu sou o Guilherme Augusto</h1>
+<h1 align="center"> Eu sou o Guilherme Augusto</h1>
 <h3 align="center">💻 Estudante técnico no CEFET-MG
 </h3>
 
 ---
 
-### 🌟 Sobre mim
+###  Sobre mim
 - 🎓 Estudante do **2º ano técnico em informática**  
 - 💻 Interesse em **C++, Python, Web e Programação Orientada a Objetos**  
 - 📚 Sempre em busca de aprender algo novo    
 
 ---
 
-<h1 align="center"> 🚀 Tecnologias </h1>
+<h1 align="center">  Tecnologias </h1>
 <p align="center">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-<h1 align="center"> 📊 Estatísticas do GitHub </h1>
+<h1 align="center">  Estatísticas do GitHub </h1>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Madruzinho&show_icons=true&theme=shadow_blue"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madruzinho&layout=compact&theme=shadow_blue"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+###  Onde me encontrar
 - 📧 Email: **gui.augusto.pessoal@gmail.com**  
 - 💼 LinkedIn: [Clique aqui](https://linkedin.com/in/guilherme-augusto-114ab8344)  
 - 📷 Instagram: [@Guilherme_.aug](https://instagram.com/guilherme_.aug)  
