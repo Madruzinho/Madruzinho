@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Onde me encontrar
-- 📧 Email: **gui.augusto.pessoal@exemplo.com**  
+- 📧 Email: **gui.augusto.pessoal@gmail.com**  
 - 💼 LinkedIn: [Clique aqui](https://linkedin.com/in/seu-perfil)  
 - 📷 Instagram: [@seuuser](https://instagram.com/seuuser)  
 
