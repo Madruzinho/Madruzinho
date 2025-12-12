@@ -42,11 +42,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-> *Posso escrever esta seção pra você depois que me disser quais projetos quer destacar.*
-
----
-
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Madruzinho&show_icons=true&theme=shadow_blue"/>
