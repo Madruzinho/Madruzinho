@@ -2,6 +2,11 @@
 <h1 align="center"> 👋 Olá! Eu sou o Guilherme Augusto </h1>
 <h3 align="center">💻 Estudante Técnico em Informática — CEFET-MG</h3>
 
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
 <p align="center">
   Apaixonado por tecnologia, programação e criação de soluções.  
   Sempre buscando evoluir, aprender e construir projetos cada vez melhores.
